@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Text to QR",
+    "version": "1.1",
+    "description": "Converts text to QR code and allows users to download the generated QR code.",
+    "icons": {
+      "16": "image.jpg"
+    },
+    "permissions": [
+      "activeTab",
+      "downloads"
+    ]
+  }
+  
+  
